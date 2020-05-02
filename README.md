@@ -1,24 +1,4 @@
-# vue-quote
+## About this project
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is an interesting add made by Vuejs. In this app, there is a txtfield. By using this textfield user can add quote as the way he likes. Besides, there is a status bar which will show how many quotes have been added. User can also delete quote according to his wish.User will see all the quotes inserted by him under the textfield.
